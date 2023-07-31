@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
-import LandingPage from '../pages/LandingPages';
-import FindJobs from '../pages/FindJobs';
+import LandingPage from '../pages/LandingPage'
+import FindJobs from '../pages/LandingPage'
 
 const router = createBrowserRouter([
   {

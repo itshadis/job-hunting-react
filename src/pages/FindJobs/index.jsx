@@ -1,7 +1,5 @@
-function FindJobs() {
-  return (
-    <div>Find Jobs</div>
-  )
-}
+import LandingPageTemplate from "../../components/templates/LandingPageTemplate";
 
-export default FindJobs;
+export default function FindJobs() {
+	return <LandingPageTemplate>Halaman Find Jobs</LandingPageTemplate>;
+}
